@@ -1,6 +1,7 @@
 ## Dark Forest
 
-**Project description:** First Person Shooter Game created by me and two other people. I did all the programming part of the game and also the integration with steam sdk
+**Project description:** 
+First Person Shooter Game created by me and two other people. I did all the programming part of the game and also the integration with steam sdk
 
 ### Steam Page:
 https://store.steampowered.com/app/1043870/Dark_Forest/

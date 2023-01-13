@@ -13,7 +13,7 @@
 
 ---
 [Dwarf and Mariachi - Mobile](http://example.com/)
-<img src="images/Mariachis_and_Dwarfs.jpg?raw=true" width="350" height="130"/>
+<img src="images/dwarfMaraichi.png?raw=true" width="350" height="130"/>
 
 ---
 [Idle Slayer Clone - Mobile](http://example.com/)

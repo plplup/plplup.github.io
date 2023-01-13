@@ -5,7 +5,7 @@
 ### Projects
 
 [Dark Forest - PC Steam](/darkForest)
-<img src="images/dark_forest616.png?raw=true" width="400" height="200"/>
+<img src="images/dark_forest616.png?raw=true" width="500" height="200"/>
 
 ---
 [Saving Healer - PC Steam](/pdf/sample_presentation.pdf)
@@ -34,10 +34,6 @@
 
 **Unity Asset Store plugins:**
 - Project 1 Title
-
----
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

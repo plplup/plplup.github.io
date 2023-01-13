@@ -30,6 +30,7 @@
 - Cinemachine
 - CustomEditor
 - Animator
+- IAP
 - Input System 
 - Localization 
 - NavMesh

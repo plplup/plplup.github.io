@@ -17,7 +17,7 @@
 
 ---
 [Dwarf and Mariachi - Mobile](http://example.com/)
-<img src="images/snakeCharmer.png?raw=true" width="400" height="200"/>
+<img src="images/Mariachis_and_Dwarfs.png.png?raw=true" width="400" height="200"/>
 
 ---
 [Idle Slayer Clone - Mobile](http://example.com/)

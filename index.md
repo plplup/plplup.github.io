@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Dark Forest](/sample_page)
+[Dark Forest](/darkForest)
 <img src="images/dark_forest616.png?raw=true"/>
 
 ---

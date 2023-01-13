@@ -9,19 +9,19 @@
 
 ---
 [Saving Healer - PC Steam](/pdf/sample_presentation.pdf)
-<img src="images/savingHealer_616.png?raw=true" width="400" height="200"/>
-
----
-[Snaker Charmer - GameJAM](http://example.com/)
-<img src="images/snakeCharmer.png?raw=true" width="400" height="200"/>
+<img src="images/savingHealer_616.png?raw=true" width="500" height="200"/>
 
 ---
 [Dwarf and Mariachi - Mobile](http://example.com/)
-<img src="images/Mariachis_and_Dwarfs.jpg?raw=true" width="400" height="200"/>
+<img src="images/Mariachis_and_Dwarfs.jpg?raw=true" width="500" height="200"/>
 
 ---
 [Idle Slayer Clone - Mobile](http://example.com/)
-<img src="images/snakeCharmer.png?raw=true" width="400" height="200"/>
+<img src="images/snakeCharmer.png?raw=true" width="500" height="200"/>
+
+---
+[Snaker Charmer - GameJAM](http://example.com/)
+<img src="images/snakeCharmer.png?raw=true" width="500" height="200"/>
 
 ---
 
@@ -32,8 +32,10 @@
 - Project 1 Title
 - Project 1 Title
 
----
+**Unity Asset Store plugins:**
+- Project 1 Title
 
+---
 
 
 

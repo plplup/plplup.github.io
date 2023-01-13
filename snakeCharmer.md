@@ -6,6 +6,6 @@ Litle Project made by me (programming) and two more people (art and sound) in tw
 **Page:** 
 [itch.io Snake Charmer](https://czarsilvestrini.itch.io/snake-charmer-the-sir-pent)
 
-**ScreenShots:** 
+**Screenshots:** 
 <img src="images/snakeCharmerScreenshot01.png?raw=true"/>
 <img src="images/snakeCharmerScreenshot02.png?raw=true"/>

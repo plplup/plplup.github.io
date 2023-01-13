@@ -9,6 +9,6 @@ Personal project I was working on alone, a game that combines turn-based strateg
 **Trailer:** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/APJh3i-eUu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**ScreenShots:** 
+**Screenshots:** 
 <img src="images/savingHealerScreenShot01.png?raw=true"/>
 <img src="images/savingHealerScreenshot02.png?raw=true"/>

@@ -5,23 +5,23 @@
 ### Projects
 
 [Dark Forest - PC Steam](/darkForest)
-<img src="images/dark_forest616.png?raw=true" width="400" height="130"/>
+<img src="images/dark_forest616.png?raw=true" width="500" height="130"/>
 
 ---
 [Saving Healer - PC Steam](/savingHealer)
-<img src="images/savingHealer_616.png?raw=true" width="400" height="130"/>
+<img src="images/savingHealer_616.png?raw=true" width="500" height="130"/>
 
 ---
 [Dwarf and Mariachi - Mobile](/dwarf)
-<img src="images/dwarfMaraichi.png?raw=true" width="400" height="130"/>
+<img src="images/dwarfMaraichi.png?raw=true" width="500" height="130"/>
 
 ---
 [Idle Slayer Clone - Mobile](/idleSlayer)
-<img src="images/idleSlayerClone.png?raw=true" width="400" height="130"/>
+<img src="images/idleSlayerClone.png?raw=true" width="500" height="130"/>
 
 ---
 [Snaker Charmer - GameJAM](/snakeCharmer)
-<img src="images/snakeCharmer.png?raw=true" width="400" height="130"/>
+<img src="images/snakeCharmer.png?raw=true" width="500" height="130"/>
 
 ---
 

@@ -1,7 +1,7 @@
 ## Dwarf and Mariachi
 
 **Project description:** 
-An idle game that worked for a company. I did all the programming, including the integration with the main sdks (google play, admob, iap, facebook...)
+An idle game that i worked for a company some time ago. I did all the programming, including the integration with the main sdks (google play, admob, iap, facebook...)
 
 **Status:** 
 Not released yet

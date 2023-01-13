@@ -10,6 +10,6 @@ On hold
 **Game Play Video:** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wE-S2d2-Exs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**ScreenShots:** 
+**Screenshots:** 
 <img src="images/idleSlayerScreenshot01.png?raw=true"/>
 <img src="images/idleSlayerScreenshot02.png?raw=true"/>

@@ -17,7 +17,7 @@
 
 ---
 [Idle Slayer Clone - Mobile](/idleSlayer)
-<img src="images/idleSlayerClone.png?raw=true" width="400" height="130"/>
+<img src="images/idleSlayerCloneSS01.png?raw=true" width="400" height="130"/>
 
 ---
 [Snaker Charmer - GameJAM](/snakeCharmer)
